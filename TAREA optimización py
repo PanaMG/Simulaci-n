@@ -128,8 +128,11 @@ respuesta=opt.linprog(a,B,c, method="simplex")
 
 respuesta.x
 
+[out]: array([30., 40., 10., 40.,  0.,  0.,  0.,  0., 60.])
+
 
 # In[ ]:
+
 
 
 
